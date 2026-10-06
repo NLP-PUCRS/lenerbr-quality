@@ -1,0 +1,9 @@
+data/
+results/
+models/
+tmp*
+
+.*
+!.gitignore
+!.env.example
+*__pycache__*

@@ -1,0 +1,12 @@
+datasets==5.0.1
+python-dotenv==1.1.1
+matplotlib==3.11.1
+numpy==2.5.1
+pandas==3.0.5
+scikit_learn==1.9.0
+seaborn==0.13.2
+sentence_transformers==5.7.0
+transformers==5.14.1
+ipykernel
+openpyxl
+matplotlib
